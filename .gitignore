@@ -35,3 +35,7 @@ Carthage/Build
 # Ignore pods
 Example/Pods/
 UIEmptyState.framework.zip
+
+# SPM
+.swiftpm/config/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
